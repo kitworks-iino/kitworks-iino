@@ -1,14 +1,13 @@
-![KiT Works — @kitworks-iino](https://raw.githubusercontent.com/kitworks-iino/kitworks-iino/main/assets/wordmark.svg)
+<img src="./assets/selected-works.svg" width="100%" alt="KiT Works — Selected Works／公開プロジェクト" />
 
-会議が終わったら議事録ができている。空き時間にスマホで一問解ける。そんな、仕事と暮らしの中で自分が使いたい道具を作っています。
+<a href="https://github.com/kitworks-iino/giji-automemo"><img src="./assets/giji.svg" width="100%" alt="Giji AutoMemo（Windows）を開く" /></a>
 
-## 公開プロジェクト
+Teams会議の録音から話者ごとの文字起こし、日本語の議事録作成までをまとめるWindowsアプリ。
 
-### [Giji AutoMemo ↗](https://github.com/kitworks-iino/giji-automemo)
-Teams会議を録音し、発言を話者ごとに文字に起こして、日本語の議事録にまとめるWindowsアプリです。
+<a href="https://kitworks-iino.github.io/Gtest-Quiz/"><img src="./assets/gtest.svg" width="100%" alt="Gtest（Web App）を開く" /></a>
 
-### [Gtest ↗](https://kitworks-iino.github.io/Gtest-Quiz/)
-G検定の問題をスマホで一問ずつ。解説を読んだ後、間違えた問題だけを選んで復習できます。 [ソースコード](https://github.com/kitworks-iino/Gtest-Quiz)
+スマホで一問ずつ取り組めるG検定の問題集。解説を読み、間違えた問題だけを復習できます。 [ソースコード](https://github.com/kitworks-iino/Gtest-Quiz)
 
-### [ヒキヨミ ↗](https://github.com/kitworks-iino/hikiyomi)
-LINEで1日1回引けるスロット占い。生年月日を登録したら、あとはワンタップで今日の運勢を占えます。
+<a href="https://github.com/kitworks-iino/hikiyomi"><img src="./assets/hikiyomi.svg" width="100%" alt="ヒキヨミ（LINE Bot）を開く" /></a>
+
+LINEで1日1回引けるスロット占い。生年月日を登録すると、ワンタップで今日の運勢が出ます。
