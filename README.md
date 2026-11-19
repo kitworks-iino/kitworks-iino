@@ -1,4 +1,9 @@
-<img src="./assets/works.svg" width="100%" alt="KiT Works の制作物" />
+<p align="center"><a href="https://kitworks.pages.dev/"><img src="./assets/KiTWorksLogo.svg" width="260" alt="KiT Works — Systems × Products × AI" /></a></p>
+
+<p align="center">システム開発・プロダクト制作・AI活用に取り組む KiT Works の活動を紹介しています。</p>
+<p align="center"><a href="https://kitworks.pages.dev/"><img src="./assets/official-site.svg" width="264" alt="KiT Works 公式サイトへ" /></a></p>
+
+# 作品ギャラリー
 
 ## <img src="./assets/audio.svg" width="100%" alt="音声・議事録" />
 
